@@ -1,5 +1,15 @@
-# IMDB-Dataset-Python
+# IMDB Movie Rating & Revenue Analysis
 
-IMDB is the biggest movie rating platform in the world. A significant proportion of users choose to watch movies only after checking ratings, the number of votes, and reviews of the movie on the IMDB platform. The data IMDB captures is critical to generate insights into what is the public's preference. Which genres make more money, and which genres have good ratings and still have lesser revenue?
+This project involves analyzing IMDB movie data to uncover insights related to movie ratings, revenue, and other performance metrics. The analysis provides actionable insights into public preferences, which genres generate the most revenue, and which genres are rated highly but underperform in revenue. This data can be used to predict the revenue of future movies based on ratings and genre preferences.
 
-The insights generated from the dataset can be monetized as directors can create content viewers want. Once the movie is released, this dataset can also be used to predict the movie's revenue. 
+## Requirements:
+- Python 3.x
+- pandas
+- numpy
+- matplotlib (optional for data visualization)
+
+## Installation:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/IMDB-Movie-Analysis.git
+   cd IMDB-Movie-Analysis
